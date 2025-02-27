@@ -2,6 +2,8 @@
 
 The Ecosystem of Monero
 
+![Monero Ecosystem Diagram](monero-ecosystem.jpg)
+
 ## How to Contribute
 
 We welcome contributions to the Monero Ecosystem project! Here are a few ways you can get involved:

@@ -1,6 +1,6 @@
 # Monero Ecosystem
 
-The Ecosystem of Monero
+The Ecosystem of Monero - [Demo](https://schmidt1024.github.io/monero-ecosystem/monero-ecosystem-map.drawio-2.html)
 
 ![Monero Ecosystem Diagram](monero-ecosystem.jpg)
 

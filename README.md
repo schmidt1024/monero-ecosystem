@@ -4,6 +4,8 @@ The Ecosystem of Monero
 
 ![Monero Ecosystem Diagram](monero-ecosystem.jpg)
 
+This idea comes to me from mondetta. So special thanks to him for bringing this up! 🙏🏻
+
 ## How to Contribute
 
 We welcome contributions to the Monero Ecosystem project! Here are a few ways you can get involved:

@@ -2,7 +2,7 @@
 
 The Ecosystem of Monero - [Demo](https://schmidt1024.github.io/monero-ecosystem/monero-ecosystem-map.drawio-2.html)
 
-![Monero Ecosystem Diagram](monero-ecosystem.jpg)
+![Monero Ecosystem Diagram](monero-ecosystem-map.jpg)
 
 This idea comes to us from mondetta. So special thanks to him for bringing this up! 🙏🏻
 

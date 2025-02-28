@@ -4,7 +4,11 @@ The Ecosystem of Monero - [Demo](https://schmidt1024.github.io/monero-ecosystem/
 
 ![Monero Ecosystem Diagram](monero-ecosystem-map.jpg)
 
-This idea comes to us from mondetta. So special thanks to him for bringing this up! 🙏🏻
+This idea comes to us from [mondetta](https://coracle.social/people/nprofile1qyvhwumn8ghj7un9d3shjtnddakk7um5wgh8q6twdvhszxnhwden5te0wfjkccte9enk2arpd338jtnrdakj7a33qy88wumn8ghj7mn0wvhxcmmv9uqzp2ac2ky2ms0el3cvqlpdvyvu065ys0s9vaxct6yl6yh7ymeh67uqxm0qs9). So special thanks to him for bringing this up! 🙏🏻
+
+By mondetta a beer!
+👇
+48Xx3o37UzJNeQNJke46uRUxvpjHsaYHR6ERRpeuVizdJAwkUErdgbb9rWw1UdDTjoTSB4enL2hCY1b7fv52FxDPCW9Wzhw
 
 ## How to Contribute
 

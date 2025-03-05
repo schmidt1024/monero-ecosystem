@@ -10,19 +10,41 @@ By mondetta a beer!
 👇
 48Xx3o37UzJNeQNJke46uRUxvpjHsaYHR6ERRpeuVizdJAwkUErdgbb9rWw1UdDTjoTSB4enL2hCY1b7fv52FxDPCW9Wzhw
 
+## Purpose of the project
+This map or graph of Monero Ecosystem aims to provide a visual overview, with web links to relevant projects.
+
+The main target audience are new Monero users. Therefore only most relevant projects can compete to be added to the graph to avoid visual complexity.
+
+
 ## How to Contribute
 
-We welcome contributions to the Monero Ecosystem project! Here are a few ways you can get involved:
+We welcome contributions to the Monero Ecosystem project!
 
-1. **Modify the Diagram**:
+**1. Adding a new project to the graph:**
+
+First check [Purpose of project](#purpose-of-the-project) above 👆
+
+Then make sure the project you wish to add has most of the following properties:
+
+- Open-source
+- Popular
+- Modular
+- Decentralized
+- Trusted by the community
+- Increases Monero adoption
+
+**2. Few ways you can contribute:**
+
+1. Submit Ideas or Comments:
+   - If you have suggestions or ideas but do not want to make changes yourself, you can add a comment or idea in the Issues section of the repository.
+   - Navigate to the Issues tab and create a new issue with your suggestion or feedback.
+2. Modify the Diagram:
    - Download the `.drawio` file from the repository.
    - Go to [draw.io](https://app.diagrams.net/).
    - Open the existing diagram by uploading the `.drawio` file.
    - Make your changes and save the updated file.
    - Create a pull request with your changes.
 
-2. **Submit Ideas or Comments**:
-   - If you have suggestions or ideas but do not want to make changes yourself, you can add a comment or idea in the Issues section of the repository.
-   - Navigate to the Issues tab and create a new issue with your suggestion or feedback.
+
 
 We appreciate your contributions and look forward to collaborating with you!
